@@ -1,0 +1,5 @@
+//Ocultar las barras de scroll
+html,body { 
+  overflow-x: :hidden; 
+  overflow-y: :hidden;
+}
